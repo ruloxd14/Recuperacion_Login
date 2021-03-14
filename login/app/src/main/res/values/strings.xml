@@ -1,0 +1,10 @@
+<resources>
+    <!--etiquetas-->
+    <string name="app_name">Facebook</string>
+    <string name="nombre">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="correo">Correo</string>
+    <string name="contra">Contraseña</string>
+    <string name="tel">Telefono</string>
+    <string name="registro">Registro</string>
+</resources>
